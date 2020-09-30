@@ -50,16 +50,22 @@ footer{
        3px 3px 1 white,
      -1px -1px 1 white,  
       1px -1px 1 white,
-      -1px 1px 1 white,
+      -1px 1px 1 white;
+      padding-right: 60px
        
 };
-footer{
-    color: rgb(66, 175, 66);
-    width: 100px;
+footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
 }
 .footer-c{
     background-image: url(https://listimg.pinclipart.com/picdir/s/570-5701995_ekg-clipart-wave-ekg-wave-transparent-free-for.png);
     background-repeat: repeat;
     background-size: cover;
 
+}
+.trendfooter{
+    font-size: 5px;
+    text-align: left;
 }
