@@ -51,6 +51,7 @@ footer{
      -1px -1px 1 white,  
       1px -1px 1 white,
       -1px 1px 1 white,
+      padding
        
 };
 footer{
@@ -62,4 +63,8 @@ footer{
     background-repeat: repeat;
     background-size: cover;
 
+}
+.trendfooter{
+    font-size: 5px;
+    text-align: left;
 }
