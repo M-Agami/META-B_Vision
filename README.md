@@ -79,6 +79,11 @@ Link:  https://www.latlong.net/category/provinces-40-60.html
 
 ### Screenshots 
 
+<img src = "images/map_visualization.PNG" >
+<img src = "images/trend_visualization.PNG" >
+
+### Inspiration Screenshots
+
 <img src = "images/googletrends.PNG" >
 <img src = "images/covidcasesvisual.PNG" >
 
